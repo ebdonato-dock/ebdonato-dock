@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eduardo Donato
+- 👋 Hi, I’m Eduardo **DONATO**
 - My personal Github profile is [ebdonato](https://github.com/ebdonato)
 
 <!---
